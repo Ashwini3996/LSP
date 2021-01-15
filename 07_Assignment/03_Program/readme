@@ -1,0 +1,15 @@
+3. Write a program which creates three diffrent processess internally as process2, process3, process4.
+
+output:
+ ./myexe
+Child process2 is created by parent 
+Child process3 is created by parent 
+Child process4 is created by parent 
+Process4 is running with PID:6827 
+Process2 is running with PID:6825 
+Process3 is running with PID:6826 
+6825 child gets terminated
+6826 child gets terminated
+6827 child gets terminated
+Parent process terminates!
+

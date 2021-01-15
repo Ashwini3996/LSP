@@ -1,0 +1,37 @@
+Contents of UArea
+1. Current directory and current root.
+2. Process size limit and file size limit.
+3. Internal I/O Parameter.
+4. Array of all file descriptors. (UFDT)
+5. Pointers to process table slots.
+6. Input parameters of system call.
+7. Return value of system call.
+8. Error code of System call.
+9. Array which indicates signals which are not yet handled by the
+kernel.
+10. Timer field.
+11. Permission field.
+12. Real and effective user ID.
+13. Control terminal field.
+Contents of Buffer
+1. Device number/ File system number.
+2. Logical block number.
+3. States of buffer:
+Locked/Unlocked/Valid/Invalid/Reading/Writing/Delayed
+Write/Reserved
+4. Pointer to Data Area.
+5. Pointer to next buffer on hash queue of buffer.
+6. Pointer to previous buffer on hash queue of buffer.
+7. Pointer to next buffer on free list of buffer.
+8. Pointer to previous buffer on free list of buffer.
+Contents of Process Table
+1. Field which is used by the kernel to access UArea.
+2. State of the process. (value: 1 - 9)
+3. Process size.
+4. Different user identifier. (UIDs)
+5. Different Process Identifiers. (PIDs)
+6. Pointer to PPRT entry.
+7. Scheduling Parameter.
+8. Event Descriptor set.
+9. Signals and its actions.
+10. Timer which is used for scheduling purpose.

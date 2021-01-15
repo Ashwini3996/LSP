@@ -1,0 +1,10 @@
+3. Write a program which is used to predict the problem due to lack of synchronization.
+
+./myexe
+Inside Main thread
+Task 1 started succesfully
+Task 2 started succesfully
+Task 2 finished succesfully
+Task 2 finished succesfully
+Terminating Main thread
+

@@ -1,0 +1,20 @@
+2. Write a program which create three level process hierarchy where process 1 creates process 2 and it internally creates process 3.
+
+outpute:
+$ ./myexe
+Child process1 is created by parent 
+Parent of Process1 is running with PID:6110 
+Process1 is running with PID:6111 
+Child process2 is created by parent
+Parent of Process2 is running with PID:6111 
+Process2 is running with PID:6112 
+Child process3 is created by parent 
+Parent of Process3 is running with PID:6112 
+Process3 is running with PID:6113 
+Child Process3 gets terminated with PID: 6113
+Process2 gets terminates with PID:6112
+Child Process2 gets terminated
+Process1 gets terminates with PID:6111
+Child Process1 gets terminated
+Main Process gets terminates with PID:6110
+

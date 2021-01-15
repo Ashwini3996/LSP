@@ -1,0 +1,9 @@
+4. Write a program which creates two thread, and by using appropriate synchronization technique avoid the scheduling problem.
+
+Inside Main thread
+Task 1 started succesfully
+Task 1 finished succesfully
+Task 2 started succesfully
+Task 2 finished succesfully
+Terminating Main thread
+

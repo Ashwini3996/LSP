@@ -1,0 +1,24 @@
+2. Write a program which creates multiple threads and sets its thread attributes accordingly.
+
+/myexe
+Inside Main thread
+Sleeping in thread
+Thread with id 0
+Sleeping in thread
+Thread with id 1
+Sleeping in thread
+Thread with id 3
+Sleeping in thread
+Thread with id 2
+Mian:Completted thread id  0 existing status 0
+Mian:Completted thread id  0 existing status 0
+Mian:Completted thread id  1 existing status 0
+Mian:Completted thread id  0 existing status 0
+Mian:Completted thread id  1 existing status 0
+Mian:Completted thread id  2 existing status 0
+Mian:Completted thread id  0 existing status 0
+Mian:Completted thread id  1 existing status 0
+Mian:Completted thread id  2 existing status 0
+Mian:Completted thread id  3 existing status 0
+Terminating Main thread
+

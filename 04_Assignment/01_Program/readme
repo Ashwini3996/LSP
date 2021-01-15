@@ -1,0 +1,12 @@
+1. Write a program which is used to demonstrat the concept of I/O Redirection.
+
+Steps:
+For demonstration of this program perform following activity
+1. Create file as input.txt in working directoy and write twonumbers in file as 10 20
+2. Create empty file as output.txt in working directory
+3. compile the program
+4. Run the program as
+5. ./a.out <input.txt> output.txt
+6. After this output.txt file contains output as 
+7. "Addition of 10 and 20 is 30"
+

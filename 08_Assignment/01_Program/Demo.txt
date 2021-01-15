@@ -1,0 +1,1 @@
+Regular File:old.txtDirectory File:.Directory File:DestDirectory File:..Regular File:temp.txt

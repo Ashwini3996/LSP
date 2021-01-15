@@ -1,0 +1,1 @@
+1.Write a program which craetes one child process, and parent process waits till its child process terminates.

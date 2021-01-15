@@ -1,0 +1,11 @@
+1. Write a program which is used to create simple thread by using pthread library.
+
+
+output:
+$ gcc Demo.c -o myexe -lpthread
+$ ./myexe
+
+Inside Main thread
+Inside thrad with Fun
+Terminating Main thread
+

@@ -1,0 +1,9 @@
+5. Write a program which is used to get thread id inside its thread function.
+
+output:
+$ ./myexe 
+Inside Main thread
+Inside thrad with Fun
+Fun Thread ID:-207427840
+Terminating Main thread
+

@@ -1,0 +1,12 @@
+4. Write a program which creates two processess as process2 and process3 and our parent process waits till both the processess terminates.
+
+output:
+$ ./myexe
+Child process2 is created by parent 
+Child process3 is created by parent 
+Process2 is running with PID:7234 
+Process3 is running with PID:7235 
+7234 child gets terminated
+7235 child gets terminated
+Parent process terminates!
+

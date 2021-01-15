@@ -1,0 +1,9 @@
+5. Write a program which creates two threads by using pthread API, where one thread count number of capital characters from demo.txt file and other threads count number of small characters from same file.
+
+output:
+Inside Main thread
+Inside thrad with Fun
+Inside thrad with Gun
+Capital Count:1
+Small Count:4
+Terminating Main thread

@@ -1,0 +1,9 @@
+3. Write a program which creates single thread and we have to pass parameter to that thread from main thread.
+
+output:
+$ ./myexe 
+Inside Main thread
+Inside thrad with Fun
+Fun parameter value:10
+Terminating Main thread
+

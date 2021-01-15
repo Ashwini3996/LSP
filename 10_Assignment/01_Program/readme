@@ -1,0 +1,10 @@
+1. Write a program which creates 4 number of threads and our main thread waits till all the thread terminates.
+
+$ ./myexe
+Inside Main thread
+Inside thrad with id 140382824924928 and data 0
+Inside thrad with id 140382816532224 and data 1
+Inside thrad with id 140382799746816 and data 3
+Inside thrad with id 140382808139520 and data 2
+Terminating Main thread
+

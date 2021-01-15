@@ -1,0 +1,10 @@
+4. Write a program which creates single thread and it accept one value from user and it return some value to the caller thread.
+
+output:
+$ ./myexe 
+Inside Main thread
+Inside thrad with Fun
+Fun parameter value:10
+Return value from thread fun is:20
+Terminating Main thread
+

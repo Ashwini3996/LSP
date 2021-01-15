@@ -1,0 +1,11 @@
+7. Write a program which is used to pring home directory and login user name.
+
+
+output:
+Regular File: old.txt
+Derectory File: .
+Derectory File: Dest
+Derectory File: ..
+Regular File: temp.txt
+User Name is:ashwinipalve
+
